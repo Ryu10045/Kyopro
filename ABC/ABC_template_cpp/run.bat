@@ -1,0 +1,1 @@
+g++ "%1.cpp" -o "./build/%1" & "./build/%1.exe"
